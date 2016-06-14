@@ -23,6 +23,9 @@ Memo of Keyboard wizard of LINE
       - [轉職 上篇 Foxconn/Marvell/Asus/IBM](https://www.ptt.cc/bbs/Tech_Job/M.1441183752.A.8FA.html)
       - [轉職 中篇 HTC/BSquare/Wistron](https://www.ptt.cc/bbs/Tech_Job/M.1441188005.A.2DD.html)
       - [討論 測試人生](https://www.ptt.cc/bbs/Tech_Job/M.1449768068.A.414.html)
+      - []
+10:25	廖昱淳	[記事本] 轉 [心得] QNAP Cloud徵才感謝祭
+https://www.ptt.cc/bbs/Soft_Job/M.1450457023.A.AB4.html
 
   * Python
       - [Youtube Jupyter操作入門](https://youtu.be/lWkcP4xF8wI)
@@ -37,9 +40,8 @@ Memo of Keyboard wizard of LINE
       - [Wiki 快速排序](https://zh.m.wikipedia.org/zh-tw/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F)
       - [號稱最快的演算法 radix sort](http://notepad.yehyeh.net/Content/Algorithm/Sort/Radix/Radix.php)
       - [Blog 轉基於Flash介質嵌入式儲存方案的設計與實現](http://m.xuite.net/blog/tzeng015/twblog/113272087)
-      - []
-http://antrash.pixnet.net/blog/post/70456505-stack-vs-heap%EF%BC%9A%E5%9F%B7%E8%A1%8C%E6%99%82%E6%9C
-http://linux.vbird.org/linux_basic/0540kernel.php
+      - [stack and heap](http://antrash.pixnet.net/blog/post/70456505-stack-vs-heap%EF%BC%9A%E5%9F%B7%E8%A1%8C%E6%99%82%E6%9C)
+      - [鳥哥的站 Linux basic](http://linux.vbird.org/linux_basic/0540kernel.php)
 
 
   * Raspberry
