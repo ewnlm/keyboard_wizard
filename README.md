@@ -1,16 +1,16 @@
 # keyboard\_wizard
 Memo of Keyboard wizard of LINE
 ### C/C++
-    - [C 語言 - function 回傳字串](http://iamahan.blogspot.tw/2009/05/c-functionstring.html?m=1)
-    - [原創 二維陣列與字串陣列有什麼差異?](http://www.cnblogs.com/oomusou/archive/2008/03/24/1119012.html)
-    - [is there a way to get gcc to output raw binary](http://stackoverflow.com/questions/1647359/is-there-a-way-to-get-gcc-to-output-raw-binary)
-    - [inline function](http://openhome.cc/Gossip/CppGossip/inlineFunction.html)
-    - [how does sizeof work for char pointer variabels](http://stackoverflow.com/questions/17298172/how-does-sizeof-work-for-char-pointer-variables)
-    - [C style string.h](http://edisonx.pixnet.net/blog/post/76558463-%5Bc%5D-c-style-string.h-%E9%83%A8%E4%BB%BD%E5%87%BD%E5)
-    - [register keyword in C](http://stackoverflow.com/questions/578202/register-keyword-in-c)
-    - [Data structure from NUU](http://sjchen.im.nuu.edu.tw/Datastructure_Final.html)
-    - [stack and heap](http://antrash.pixnet.net/blog/post/70456505-stack-vs-heap%EF%BC%9A%E5%9F%B7%E8%A1%8C%E6%99%82%E6%9C)
-    - [Github 初學者寫給初學者的演算法教學](http://alrightchiu.github.io/SecondRound/)
+  - [C 語言 - function 回傳字串](http://iamahan.blogspot.tw/2009/05/c-functionstring.html?m=1)
+  - [原創 二維陣列與字串陣列有什麼差異?](http://www.cnblogs.com/oomusou/archive/2008/03/24/1119012.html)
+  - [is there a way to get gcc to output raw binary](http://stackoverflow.com/questions/1647359/is-there-a-way-to-get-gcc-to-output-raw-binary)
+  - [inline function](http://openhome.cc/Gossip/CppGossip/inlineFunction.html)
+  - [how does sizeof work for char pointer variabels](http://stackoverflow.com/questions/17298172/how-does-sizeof-work-for-char-pointer-variables)
+  - [C style string.h](http://edisonx.pixnet.net/blog/post/76558463-%5Bc%5D-c-style-string.h-%E9%83%A8%E4%BB%BD%E5%87%BD%E5)
+  - [register keyword in C](http://stackoverflow.com/questions/578202/register-keyword-in-c)
+  - [Data structure from NUU](http://sjchen.im.nuu.edu.tw/Datastructure_Final.html)
+  - [stack and heap](http://antrash.pixnet.net/blog/post/70456505-stack-vs-heap%EF%BC%9A%E5%9F%B7%E8%A1%8C%E6%99%82%E6%9C)
+  - [Github 初學者寫給初學者的演算法教學](http://alrightchiu.github.io/SecondRound/)
 
 
 ### Utility
