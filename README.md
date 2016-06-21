@@ -22,9 +22,9 @@ Memo of Keyboard wizard of LINE
       - [Lookaround assertion](http://www.rexegg.com/regex-lookarounds.html)
 
   * Perl
-      - [Perl pattern debug by module](http://tinyurl.com/l845df4)
+      - [Perl pattern debug by module](http://perldoc.perl.org/perldebguts.html#Debugging-Regular-Expressions)
 	use re "debug";
-      - [one linear](http://www.math.harvard.edu/)
+      - [one liner](http://www.math.harvard.edu/computing/perl/oneliners.txt)
       - [perl6 給凡人們](http://www.slideshare.net/Ovid/perl-6-for-mere-mortals/77)
       - [PTT Python 為何在ic design 不能取代 Perl](https://www.ptt.cc/bbs/Tech_Job/M.1458396608.A.62C.html)
       - [how to sort faster in perl](http://tw.perlmaven.com/how-to-sort-faster-in-perl)
