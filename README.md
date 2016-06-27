@@ -99,6 +99,8 @@ Memo of Keyboard wizard of LINE
 ### IC Design
   - [Wiki Physical design](https://en.m.wikipedia.org/wiki/Physical_design_(electronics))
   - [Paper Verilog Race condition](http://www.sunburst-design.com/papers/CummingsSNUG2000SJ_NBA_rev1_2.off)
+  - [Clifford E. Cummings Don Mills, Synchronous Reset? Asynchronous Reset?](http://www.sunburst-design.com/papers/CummingsSNUG2002SJ_Resets.pdf)
+  - [Clifford E. Cummings Don Mills Steve Golson, Asynchronous & Synchronous Reset Design Techniques - Part Deux](http://www.sunburst-design.com/papers/CummingsSNUG2003Boston_Resets.pdf)
 
 ### VBA
   - [VBA 字串轉HEX](http://stackoverflow.com/questions/26363113/converting-string-to-hex-in-excel-vba)
